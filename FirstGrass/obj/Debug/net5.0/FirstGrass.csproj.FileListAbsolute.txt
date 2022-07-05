@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.exe
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.deps.json
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.runtimeconfig.json
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.runtimeconfig.dev.json
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.dll
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\ref\FirstGrass.dll
+C:\Users\user\source\repos\FirstGrass\FirstGrass\bin\Debug\net5.0\FirstGrass.pdb
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.AssemblyInfo.cs
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.dll
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\ref\FirstGrass.dll
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.pdb
+C:\Users\user\source\repos\FirstGrass\FirstGrass\obj\Debug\net5.0\FirstGrass.genruntimeconfig.cache
